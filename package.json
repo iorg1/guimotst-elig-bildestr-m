@@ -1,0 +1,11 @@
+{
+  "name": "guimotståelig-bildestrøm",
+  "version": "0.0.0",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "chokidar": "~0.7.0",
+    "socket.io": "~0.9.16"
+  }
+}
